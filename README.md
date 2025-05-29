@@ -47,4 +47,3 @@ The dataset includes information from 900+ patients and features such as:
 
 > Training Accuracy: ~88%  
 > Test Accuracy: ~91%  
-> (Add your actual numbers here once training is done)
